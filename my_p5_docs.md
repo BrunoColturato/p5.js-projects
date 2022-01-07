@@ -18,3 +18,7 @@
     vector.mult(scale)
     p5.Vector.add(v1, v2)
     vector.setMag(mag)
+
+## Angles
+    angleMode(RADIAN||DEGREES)
+    rotate(angle)
